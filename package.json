@@ -1,7 +1,7 @@
 {
   "name": "joyo-nurdiansyah-portfolio",
   "version": "0.1.0",
-  "homepage": "https://joyonurdiansyah.github.io/joyo-nurdiansyah",
+  "homepage": "https://joyonurdiansyah.github.io/my-portfolio-1/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
