@@ -301,78 +301,68 @@ export const education = [
 ];
 
 export const projects = [
-  // {
-  //   id: 9,
-  //   title: "Trackify",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-  //   image:
-  //     "https://i.ibb.co.com/kyNXyP3/project-sistem-tamu.jpg",
-  //   tags: [
-  //     "Docker",
-  //     "AWS",
-  //     "DuckDNS",
-  //     "Eslint",
-  //     "Husky",
-  //     "CI/CD",
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Trackify",
-  //   webapp: "https://trackify.duckdns.org",
-  // },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://i.ibb.co.com/pKPJM77/project-e-klinik.jpg",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Present",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://i.ibb.co.com/V2GyHGP/project-document-dan-legalitas.jpg",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+    {
+      "id": 9,
+      "title": "FORM TAMU APP BAS",
+      "date": "Jun 2023 - Jul 2023",
+      "description": "FORM TAMU APP BAS adalah aplikasi web yang dirancang untuk menyederhanakan manajemen tugas dan meningkatkan produktivitas di tempat kerja. Ini menyediakan antarmuka yang ramah pengguna bagi pengusaha untuk melacak aktivitas kerja harian karyawan mereka dan memberdayakan karyawan untuk mencatat tugas mereka dengan efisien. Kredensial Karyawan:	Aplikasi ini juga berfungsi sebagai formulir tamu yang digunakan oleh tamu yang ingin bergabung dengan PT BUMI ALAM SEGAR. Di dalamnya terdapat FAQ dan persetujuan tamu yang mengisi formulir, serta rekap data bulanan tamu yang berkunjung ke PT Bumi Alam Segar.",
+      "image": "https://i.ibb.co.com/kyNXyP3/project-sistem-tamu.jpg",
+      "tags": [
+          "PHP 7",
+          "LARAVEL 7",
+          "MySQL",
+          "HeidiSQL",
+          "Figma",
+          "Git dan Github",
+          "Javascript",
+          "Jquery",
+          "Ajax",
+          "React JS"
+      ],
+      "category": "web app",
+      // "github": "https://github.com/rishavchanda/Trackify",
+      // "webapp": "https://trackify.duckdns.org"
+  },
+  {
+    "id": 0,
+    "title": "E-KLINIK BAS",
+    "date": "Aug 2023 - Sep 2023",
+    "description": "Mengembangkan aplikasi web full-stack yang memungkinkan pengguna untuk mencari, memutar, dan menjeda podcast favorit mereka sesuai permintaan dan membuat podcast. Mengimplementasikan otentikasi pengguna menggunakan Google Auth dan Jwt Auth, membuat antarmuka pengguna responsif dengan Laravel yang memberikan pengalaman yang mulus bagi pengguna di semua perangkat. Menggunakan metodologi agile untuk mengoptimalkan efisiensi dan komunikasi tim. \n\nSistem E-KLINIK BAS dirancang untuk memudahkan operasi klinik dengan fitur-fitur seperti manajemen stok obat, rekap data obat, dan harga obat. Selain itu, sistem ini juga menyediakan kemudahan dalam pendaftaran dan penanganan pasien dengan fitur tapping karyawan yang ingin berobat dengan menggunakan teknologi RFID.",
+    "image": "https://i.ibb.co.com/pKPJM77/project-e-klinik.jpg",
+    "tags": [
+        "PHP 7",
+        "LARAVEL 7",
+        "MySQL",
+        "HeidiSQL",
+        "Figma",
+        "Git dan Github",
+        "Javascript",
+        "Jquery",
+        "Ajax"
+    ],
+    "category": "web app",
+    // "github": "https://github.com/rishavchanda/Podstream",
+    // "webapp": "https://podstream.netlify.app/"
+  },
+    {
+      "id": 1,
+      "title": "SURAT IJIN OPERASIONAL",
+      "date": "Nov 2023 - Dec 2023",
+      "description": "Merancang dan mengembangkan proyek SURAT IJIN OPERASIONAL, sebuah aplikasi manajemen proyek yang membantu pengguna dan tim tetap terorganisir dan berada pada jalur yang benar. Mengimplementasikan fitur-fitur utama seperti pelacakan tugas, kolaborasi tim, dan pelacakan waktu untuk meningkatkan produktivitas dan hasil proyek serta mengundang anggota tim/proyek. Rencananya adalah menambahkan komunitas pengguna di mana mereka dapat menemukan pengembang dan anggota tim lainnya serta implementasi sistem obrolan.\n\nAplikasi SURAT IJIN OPERASIONAL dirancang dan dikembangkan menggunakan Laravel untuk menyimpan data legalitas perusahaan. Selain itu, aplikasi ini dilengkapi dengan fitur notifikasi terkait masa berlaku yang akan segera berakhir dengan menggunakan SMTP Gmail, memastikan perusahaan selalu memperbarui dan memantau status dokumen legal mereka.",
+      "image": "https://i.ibb.co.com/V2GyHGP/project-document-dan-legalitas.jpg",
+      "tags": [
+          "PHP 7",
+          "LARAVEL 7",
+          "MySQL",
+          "HeidiSQL",
+          "Figma",
+          "Git dan Github",
+          "Javascript",
+          "Jquery",
+          "Ajax"
+      ],
+      "category": "web app"
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
@@ -385,47 +375,31 @@ export const projects = [
   //   category: "machine learning",
   //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
   //   webapp: "https://brain-tumor.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
   // },
-  // {
-  //   id: 3,
-  //   title: "Buckoid",
-  //   date: "Dec 2021 - Apr 2022",
-  //   description:
-  //     "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-  //   image:
-  //     "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-  //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
-  //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  // },
-  // {
-  //   id: 10,
-  //   title: "Job Finding App",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //   tags: ["React Native", "JavaScript", "Axios"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Job-finder-App",
-  //   webapp: "https://github.com/rishavchanda/Job-finder-App",
-  // },
+  {
+    id: 3,
+    title: "Aplikasi Kuis Bahasa Jepang Berbasis Android",
+    date: "Dec 2021 - Apr 2022",
+    description:
+      " Aplikasi yang membantu tenaga pengajar seperti Guru SD dan SMP dalam memperkenalkan kosa kata bahasa jepang hiragana dan katakana.",
+    image:
+      "https://i.ibb.co.com/FYR4wY1/ui-project-nihonjin.jpg",
+    tags: ["Android Studio", "Firebase", "MysQL", "Adobe XD"],
+    category: "android app",
+  },
+  {
+    id: 10,
+    title: "Yekkhan Original Indonesia",
+    date: "Januari 2022 - Juni 2023",
+    description:
+      "Aplikasi yang di rancang untuk membantu UMKM dalam mengembangkan bisnis mereka.",
+    image:
+      "https://cdn.dribbble.com/users/8613656/screenshots/19683063/media/e855ea9a9fbffdfb6cdb49ac2a27e630.png?resize=1000x750&vertical=center",
+    tags: ["Flutter", "JavaScript", "Kafka", "Git"],
+    category: "android app",
+    github: "https://github.com/rishavchanda/Job-finder-App",
+    webapp: "https://github.com/rishavchanda/Job-finder-App",
+  },
   // {
   //   id: 4,
   //   title: "Whatsapp Clone",
@@ -464,19 +438,6 @@ export const projects = [
   //   category: "web app",
   //   github: "https://github.com/rishavchanda/Breaking-Bad",
   //   webapp: "https://breaking-bad-webapp.netlify.app",
-  // },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
   // },
   // {
   //   id: 8,
